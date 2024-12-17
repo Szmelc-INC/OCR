@@ -1,5 +1,6 @@
 # OCR
-Optical Character Recognition in Go
+> ### Optical Character Recognition in Go 
+<img src="https://i.imgur.com/lHbYss3.png" width="900px">
 
 # Building
 > Install required dependencies
